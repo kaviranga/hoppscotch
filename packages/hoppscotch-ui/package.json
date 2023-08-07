@@ -20,7 +20,7 @@
   "dependencies": {
     "@hoppscotch/vue-toasted": "^0.1.0",
     "@lezer/highlight": "^1.0.0",
-    "@vitejs/plugin-legacy": "^2.3.0",
+    "@vitejs/plugin-legacy": "^4.0.4",
     "@vueuse/core": "^8.7.5",
     "@vueuse/head": "^0.7.9",
     "acorn-walk": "^8.2.0",
